@@ -52,7 +52,7 @@
 
 ## 宠物进化表
 
-![宠物进化表](http://pocketrose.21sun.net/pocketrose/image/petjinhua.htm)
+[宠物进化表](http://pocketrose.21sun.net/pocketrose/image/petjinhua.htm)
 
 ## 属性相克表
 
